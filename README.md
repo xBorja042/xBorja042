@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xBorja042
+- 👋 Hi, I’m @xBorja042.
 - 👀 I’m interested in Data Science in general and Deep Learning in particular.
 - 👷‍♂️ I am currently working as a Data Scientist.
 
